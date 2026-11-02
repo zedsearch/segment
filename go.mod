@@ -1,3 +1,3 @@
-module github.com/blevesearch/segment
+module github.com/zedsearch/segment
 
-go 1.18
+go 1.24

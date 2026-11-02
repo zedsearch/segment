@@ -74,7 +74,7 @@ There is support for fuzzing the segment library with [go-fuzz](https://github.c
 
 2.  Build the package with go-fuzz:
 
-		go-fuzz-build github.com/blevesearch/segment
+		go-fuzz-build github.com/zedsearch/segment
 
 3.  Convert the Unicode provided test cases into the initial corpus for go-fuzz:
 
